@@ -1,0 +1,2 @@
+model_checkpoint_path: "model_camera_rd_prob_weights"
+all_model_checkpoint_paths: "model_camera_rd_prob_weights"
