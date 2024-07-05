@@ -1,0 +1,16 @@
+tensorflow==2.8.0
+numpy
+tensorflow_datasets
+jupyterlab
+matplotlib
+scikit-learn
+imageio
+keras
+pandas
+opencv-python
+tensorboard
+tqdm
+pydot
+graphviz
+pyyaml
+scikit-image
