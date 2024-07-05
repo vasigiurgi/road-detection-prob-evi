@@ -1,4 +1,5 @@
 The code is prepared such that it should work if the user has all the installed frameworks. 
+In the original implementation Docker is used with the mentioned version of frameworks as in the requirements.txt file 
 
 # Build the models: prob and evi
 The subfolder "model_arch" stands for the models (probabilistic and evidential) and involved libraries (belief theory libraries):
