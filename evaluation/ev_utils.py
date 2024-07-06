@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+########## author: vasigiurgi #############
+
 
 import os
 import numpy as np
 import cv2
-#import pdb
 
 
 # Read paths of validation split
